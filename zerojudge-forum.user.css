@@ -8,7 +8,7 @@
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://zerojudge.tw/ShowThread") {
-    div.col-sm-6{
+    div.col-md-3{
         float: none;
         width: auto;
     }
